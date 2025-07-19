@@ -2,6 +2,10 @@
 
 This project demonstrates a machine learning pipeline using **Apache Spark (PySpark)** to classify income levels based on demographic data.
 
+## 📄 Dataset
+
+**Source**: [UCI Machine Learning Repository - Adult Data Set](https://archive.ics.uci.edu/ml/datasets/adult)
+
 ## 💡 Objective
 
 Predict whether a person earns more than \$50K/year based on features like education, workclass, occupation, etc.
